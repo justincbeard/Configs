@@ -14,6 +14,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"RailsCasts Colour Scheme",
 		"Vintage"
 	],
 	"match_brackets_content": false,
